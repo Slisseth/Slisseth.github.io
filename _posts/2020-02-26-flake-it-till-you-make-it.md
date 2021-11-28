@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Un animal es un ser vivo que puede moverse por sus propios medios. Por lo general, dentro de la denominación se incluye a los integrantes del reino conocido como Animalia. ... Los animales ingieren sus alimentos, desarrollan una reproducción de tipo sexual y absorben oxígeno a través de la respiración.
+Un animal ess un ser vivo que puede moverse por sus propios medios. Por lo general, dentro de la denominación se incluye a los integrantes del reino conocido como Animalia. ... Los animales ingieren sus alimentos, desarrollan una reproducción de tipo sexual y absorben oxígeno a través de la respiración.
 
 Un animal es un ser vivo que puede moverse por sus propios medios. Por lo general, dentro de la denominación se incluye a los integrantes del reino conocido como Animalia. ... Los animales ingieren sus alimentos, desarrollan una reproducción de tipo sexual y absorben oxígeno a través de la respiración.
 
