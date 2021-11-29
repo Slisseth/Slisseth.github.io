@@ -5,7 +5,7 @@ subtitle:
 
 cover-img: /assets/img/JAVI7.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/jj.png
+share-img: /assets/img/jAVI7.png
 tags: [books, test]
 ---
 
