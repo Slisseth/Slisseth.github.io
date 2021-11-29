@@ -3,9 +3,9 @@ layout: page
 title: EDUCACIÓN
 subtitle: 
 
-cover-img: /assets/img/pp.png
+cover-img: /assets/img/jj.png
 thumbnail-img: /assets/img/ED.jpg
-share-img: /assets/img/pp.png
+share-img: /assets/img/jj.png
 tags: [books, test]
 ---
 ### Escuela
