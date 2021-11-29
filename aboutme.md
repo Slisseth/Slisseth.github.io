@@ -3,9 +3,9 @@ layout: page
 title: EDUCACIÓN
 subtitle: 
 
-cover-img: /assets/img/JAVI7.png
+cover-img: /assets/img/ll.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/jAVI7.png
+share-img: /assets/img/ll.png
 tags: [books, test]
 ---
 
