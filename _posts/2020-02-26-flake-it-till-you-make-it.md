@@ -3,9 +3,9 @@ layout: page
 title: EDUCACIÓN
 subtitle: 
 
-cover-img: /assets/img/JAVI7.png
+cover-img: /assets/img/ll.png
 thumbnail-img: /assets/img/ED.jpg
-share-img: /assets/img/jj.png
+share-img: /assets/img/ll.png
 tags: [books, test]
 ---
 Mi nombre es Lisseth Verónica Sánchez Padilla, tengo 20 años de edad, nací en Morona Santiado pero actualmente vivo en Orellana. Vengo de una familia muy grande, me gusta ser streamer, leer muchos libros y jugar ajedrez.
