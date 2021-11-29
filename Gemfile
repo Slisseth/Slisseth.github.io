@@ -2,9 +2,9 @@
 layout: post
 title: DATOS GENERALES
 subtitle: Lisseth Verónica Sánchez Padilla
-cover-img: /assets/img/pp.png
+cover-img: /assets/img/fondo.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/pp.png
+share-img: /assets/img/fondo.png
 tags: [books, test]
 ---
 - xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
