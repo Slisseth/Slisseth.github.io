@@ -1,78 +1,30 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+layout: page
+title: DATOS GENERALES
+subtitle: Raul Javier Guiñan Quiroz
+
+
+cover-img: /assets/img/pp.png
+thumbnail-img: /assets/img/j-q.jpg
+share-img: /assets/img/pp.png
+tags: [books, test]
 ---
+- xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
+ - 21 años
+ - Nuevo Alausí /Alausí /Ecuador
+ - C.I 0605009786
+ - 2931716 - 0999065858
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+PERFIL PROFESIONAL
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Ingeniero de Sistemas, con amplios conocimientos de Ingenier´ıa de Software y Programacion´ de Computadores para aplicaciones empresariales.
+Integro, autogestionado, con alta capacidad de autoaprendizaje y liderazgo. Con intereses en practicas de calidad, ´ diseno y arquitectura software.
+Ingeniero de sistemas y telecomunicaciones con capacidad de liderazgo, habilidad y experiencia para
+planear, analizar, diseñar, implementar, medir, verificar y auditar sistemas de información , Excelentes
+resultados en la Administración y manejo de Procesos; dirigiendo grupos de personas, capacitándolas a
+través de la aplicaciones adecuadas para su buen rendimiento, aplicación de metodologías de análisis y
+diseño reconocidas, con experiencia en la parte comercial, en el área de soporte, con una asimilación
+rápida de conocimientos y tecnologías, buena experiencia para trabajar bajo presión
+Me caracterizo por ser una persona responsable, honesta, dinámica con buenas relaciones interpersonales,
+con la capacidad de liderazgo para el trabajo en equipo, con profesionalismo y objetividad, puesto que con
+mi formación personal, académica y profesional he obtenido logros positivos
