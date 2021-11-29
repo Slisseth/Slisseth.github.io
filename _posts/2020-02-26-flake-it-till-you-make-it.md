@@ -3,7 +3,7 @@ layout: page
 title: EDUCACIÓN
 subtitle: 
 
-cover-img: /assets/img/jj.png
+cover-img: /assets/img/JAVI7.png
 thumbnail-img: /assets/img/ED.jpg
 share-img: /assets/img/jj.png
 tags: [books, test]
