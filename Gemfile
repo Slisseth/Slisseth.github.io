@@ -11,7 +11,7 @@ tags: [books, test]
  - 20 años
  - Morona Santiago /Macas /Ecuador
  - C.I 2200402671
- - 2931716 - 0969661215
+ - 0969661215
 
 PERFIL PROFESIONAL
 
