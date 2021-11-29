@@ -1,10 +1,10 @@
 ---
 layout: post
 title: DATOS GENERALES
-subtitle: Raul Javier Guiñan Quiroz
+subtitle: Lisseth Verónica Sánchez Padilla
 cover-img: /assets/img/pp.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/pp.png
+share-img: /assets/img/pp.jpg
 tags: [books, test]
 ---
 - xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
