@@ -4,16 +4,16 @@ title: DATOS GENERALES
 subtitle: Lisseth Verónica Sánchez Padilla
 
 
-cover-img: /assets/img/pp.png
+cover-img: /assets/img/fondo.png
 thumbnail-img: /assets/img/j-q.jpg
-share-img: /assets/img/pp.jpg
+share-img: /assets/img/fondo.jpg
 tags: [books, test]
 ---
-- lisseth.sanchez@unach.edu.ec - raul.guinan@unach.edu.ec
+- lisseth.sanchez@unach.edu.ec - lisseth.padill257@unach.edu.ec
  - 21 años
- - Nuevo Alausí /Alausí /Ecuador
- - C.I 0605009786
- - 2931716 - 0999065858
+ - Morona Santiago /Macas /Ecuador
+ - C.I 2200402671
+ - 0969661215
 
 PERFIL PROFESIONAL
 
