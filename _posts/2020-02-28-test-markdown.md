@@ -4,7 +4,7 @@ title: DATOS GENERALES
 subtitle: Lisseth Verónica Sánchez Padilla
 
 
-cover-img: /assets/img/pp.png
+cover-img: /assets/img/jj.png
 thumbnail-img: /assets/img/j-q.jpg
 share-img: /assets/img/jj.jpg
 tags: [books, test]
