@@ -2,9 +2,9 @@
 layout: post
 title: DATOS GENERALES
 subtitle: Lisseth Verónica Sánchez Padilla
-cover-img: /assets/img/jj.png
+cover-img: /assets/img/ll.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/jj.png
+share-img: /assets/img/ll.png
 tags: [books, test]
 ---
 - lisseth.sanchez@unach.edu.ec - lisseth.padill257@unach.edu.ec
