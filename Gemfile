@@ -7,11 +7,11 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/pp.jpg
 tags: [books, test]
 ---
-- xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
- - 21 años
- - Nuevo Alausí /Alausí /Ecuador
- - C.I 0605009786
- - 2931716 - 0999065858
+- lisseth.sanchez@unach.edu.ec - lisseth.padill257@gmail.com
+ - 20 años
+ - Morona Santiago /Macas /Ecuador
+ - C.I 2200402671
+ - 2931716 - 0969661215
 
 PERFIL PROFESIONAL
 
