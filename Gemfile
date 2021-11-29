@@ -2,7 +2,7 @@
 layout: post
 title: DATOS GENERALES
 subtitle: Lisseth Verónica Sánchez Padilla
-cover-img: /assets/img/pp.png
+cover-img: /assets/img/pp.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/pp.jpg
 tags: [books, test]
