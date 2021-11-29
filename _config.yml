@@ -6,17 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: Javier Quiroz
+title: Lisseth Sánchez
 
 # Your name to show in the footer
-author: Javier Quiroz
+author: Lisseth Sánchez 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   TAREAS:
     - Resumen : "https://view.genial.ly/61a3a80ad7ae3c0d78f4dc8f/presentation-presentacion-asignatura"
-  Autor:Javier Quiroz: "https://view.genial.ly/5efd4ac332d4b00d7d09045d/horizontal-infographic-diagrams-educacion"
+  Autor:Lisseth Sánchez: "https://view.genial.ly/5efd4ac332d4b00d7d09045d/horizontal-infographic-diagrams-educacion"
 
 # --- Logo --- #
 avatar: "/assets/img/j-q.jpg"
