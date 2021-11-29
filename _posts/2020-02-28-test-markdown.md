@@ -9,7 +9,7 @@ thumbnail-img: /assets/img/j-q.jpg
 share-img: /assets/img/pp.jpg
 tags: [books, test]
 ---
-- xaviz7quiroa@gmail.com - raul.guinan@unach.edu.ec
+- lisseth.sanchez@unach.edu.ec - raul.guinan@unach.edu.ec
  - 21 años
  - Nuevo Alausí /Alausí /Ecuador
  - C.I 0605009786
